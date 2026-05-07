@@ -1,6 +1,6 @@
 {
-  "id": "0b07eb73-a4fa-4a49-a234-2ee22a87edc8",
-  "prevId": "00000000-0000-0000-0000-000000000000",
+  "id": "578d135d-edd2-4210-bce2-2c2d07aa9b33",
+  "prevId": "0b07eb73-a4fa-4a49-a234-2ee22a87edc8",
   "version": "7",
   "dialect": "postgresql",
   "tables": {
@@ -68,7 +68,7 @@
           "name": "lastLogin",
           "type": "timestamp",
           "primaryKey": false,
-          "notNull": true
+          "notNull": false
         },
         "createdAt": {
           "name": "createdAt",
