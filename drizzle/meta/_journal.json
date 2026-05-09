@@ -43,6 +43,13 @@
       "when": 1778340183679,
       "tag": "0005_silly_toad_men",
       "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1778340217336,
+      "tag": "0006_lazy_shadowcat",
+      "breakpoints": true
     }
   ]
 }
