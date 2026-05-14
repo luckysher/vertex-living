@@ -1,0 +1,15 @@
+
+services:
+  
+  api:
+    
+    build:
+      context: vertex-living
+      dockerfile: Dockerfile      
+    
+  db:
+    
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: postgres
